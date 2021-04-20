@@ -1,3 +1,6 @@
-echo `date`
+echo "hello"
 
-echo `cal` 
+date 
+cal 
+
+echo "bye" 
